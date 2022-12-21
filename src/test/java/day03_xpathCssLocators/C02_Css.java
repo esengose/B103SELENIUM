@@ -1,4 +1,4 @@
-package day03_xpathCss;
+package day03_xpathCssLocators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
